@@ -13,6 +13,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [A few thoughts on Ember](https://imposter-syndrome.lol/posts/a-few-thoughts-on-ember/)
 1. [Wishes: Packaging Improvements🌴](https://www.rwjblue.com/2019/05/30/ember-js-2019-roadmap-wishes-packaging-improvements/)
 1. [EmberJS in 2019](https://gokatz.me/blog/emberjs-2019-roadmap/)
+1. [#EmberJS2019, let's make things simple for developers](https://siva.dev/ember-2019/)
 
 ## Forum Threads
 1. 
