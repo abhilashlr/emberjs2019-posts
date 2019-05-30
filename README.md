@@ -15,4 +15,4 @@ A list of EmberJS2019 posts, feel free to add others!!!
 
 ## Tweets
 These don't have blog posts but it felt like they should be tracked somehow.
-1. 
+1. "I hope query params get some love in #EmberJS2019. Biggest pain point of the framework right now imo. At least as development goes." - [Robert Clancy](https://twitter.com/robboclancy/status/1133411097279696902)
