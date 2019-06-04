@@ -17,6 +17,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [The Ember Experience - 2019 Roadmap post](https://jenweber.netlify.com/the-ember-experience/)
 1. [Wishes: Policy Changes 🧹](https://www.rwjblue.com/2019/05/31/ember-js-2019-roadmap-wishes-policy-changes/)
 1. [To Have A Future, Ember Must Kill Its Past](http://andrewcallahan.com/to-have-a-future-ember-must-kill-its-past/)
+1. [My hopes for Ember in 2019 – Better JavaScript Community Visibility](https://www.linkedin.com/pulse/my-hopes-ember-2019-better-javascript-community-visibility-chris-ng/)
 
 ## Forum Threads
 1. 
@@ -24,3 +25,4 @@ A list of EmberJS2019 posts, feel free to add others!!!
 ## Tweets
 These don't have blog posts but it felt like they should be tracked somehow.
 1. "I hope query params get some love in #EmberJS2019. Biggest pain point of the framework right now imo. At least as development goes." - [Robert Clancy](https://twitter.com/robboclancy/status/1133411097279696902)
+1. "Here is my @emberjs blog post for #EmberJS2019 (in a tweet)! I start from the idea that 80% of apps don't need a full SPA to sprinkle in some client side niceties. What do I need from my tool belt?" - [Scott Newcomer](https://twitter.com/puekey/status/1135693033729454080)
