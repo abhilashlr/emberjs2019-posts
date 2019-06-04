@@ -18,9 +18,10 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Wishes: Policy Changes 🧹](https://www.rwjblue.com/2019/05/31/ember-js-2019-roadmap-wishes-policy-changes/)
 1. [To Have A Future, Ember Must Kill Its Past](http://andrewcallahan.com/to-have-a-future-ember-must-kill-its-past/)
 1. [My hopes for Ember in 2019 – Better JavaScript Community Visibility](https://www.linkedin.com/pulse/my-hopes-ember-2019-better-javascript-community-visibility-chris-ng/)
+1. [a procrastinator's ember.js roadmap](https://www.typedspace.com/2019-ember-js-roadmap/)
 
 ## Forum Threads
-1. 
+1.
 
 ## Tweets
 These don't have blog posts but it felt like they should be tracked somehow.
