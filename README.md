@@ -16,6 +16,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [#EmberJS2019, let's make things simple for developers](https://siva.dev/ember-2019/)
 1. [The Ember Experience - 2019 Roadmap post](https://jenweber.netlify.com/the-ember-experience/)
 1. [Wishes: Policy Changes 🧹](https://www.rwjblue.com/2019/05/31/ember-js-2019-roadmap-wishes-policy-changes/)
+1. [To Have A Future, Ember Must Kill Its Past](http://andrewcallahan.com/to-have-a-future-ember-must-kill-its-past/)
 
 ## Forum Threads
 1. 
