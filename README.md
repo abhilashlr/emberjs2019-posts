@@ -27,3 +27,4 @@ A list of EmberJS2019 posts, feel free to add others!!!
 These don't have blog posts but it felt like they should be tracked somehow.
 1. "I hope query params get some love in #EmberJS2019. Biggest pain point of the framework right now imo. At least as development goes." - [Robert Clancy](https://twitter.com/robboclancy/status/1133411097279696902)
 1. "Here is my @emberjs blog post for #EmberJS2019 (in a tweet)! I start from the idea that 80% of apps don't need a full SPA to sprinkle in some client side niceties. What do I need from my tool belt?" - [Scott Newcomer](https://twitter.com/puekey/status/1135693033729454080)
+1. "since I won't have time for a full blown blog post in the next few weeks here are some of my #Emberjs2019 thoughts as a Twitter thread:" - [Tobias Bieniek](https://twitter.com/TobiasBieniek/status/1135790015177469952)
