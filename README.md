@@ -20,6 +20,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [My hopes for Ember in 2019 – Better JavaScript Community Visibility](https://www.linkedin.com/pulse/my-hopes-ember-2019-better-javascript-community-visibility-chris-ng/)
 1. [a procrastinator's ember.js roadmap](https://www.typedspace.com/2019-ember-js-roadmap/)
 1. [Ember 2019: The Next Edition](https://www.pzuraq.com/ember-2019-the-next-edition/)
+1. [Entering The Pit of Despair Incoherence](https://gist.github.com/chadhietala/50b977a7d3476069892d351c65af418c)
 
 ## Forum Threads
 1.
