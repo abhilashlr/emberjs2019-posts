@@ -26,6 +26,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [EmberJS2019, take 2](http://www.melsumner.com/blog/ember/emberjs2019-take-2/)
 1. [#EmberJS2019: Roadmap Response](https://mehulkar.com/blog/2019/06/emberjs2019-roadmap-response/)
 1. [Ember 2019](https://gist.github.com/chancancode/ec56a0addf45380853a385694ff0e52b)
+1. [Ember in 2019: Tearing Down "Us and Them"](https://www.salsify.com/blog/engineering/ember-in-2019-tearing-down-us-and-them)
 
 ## Forum Threads
 1.
