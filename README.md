@@ -23,6 +23,9 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Entering The Pit of Despair Incoherence](https://gist.github.com/chadhietala/50b977a7d3476069892d351c65af418c)
 1. [Ember.js 2019 Roadmap](https://www.cerebris.com/blog/2019/06/04/emberjs-2019/)
 1. [Ember 2019: Reduce Complexity](https://gos.si/blog/ember-2019-reduce-complexity/)
+1. [EmberJS2019, take 2](http://www.melsumner.com/blog/ember/emberjs2019-take-2/)
+1. [#EmberJS2019: Roadmap Response](https://mehulkar.com/blog/2019/06/emberjs2019-roadmap-response/)
+1. [Ember 2019](https://gist.github.com/chancancode/ec56a0addf45380853a385694ff0e52b)
 
 ## Forum Threads
 1.
