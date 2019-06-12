@@ -27,6 +27,9 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [#EmberJS2019: Roadmap Response](https://mehulkar.com/blog/2019/06/emberjs2019-roadmap-response/)
 1. [Ember 2019](https://gist.github.com/chancancode/ec56a0addf45380853a385694ff0e52b)
 1. [Ember in 2019: Tearing Down "Us and Them"](https://www.salsify.com/blog/engineering/ember-in-2019-tearing-down-us-and-them)
+1. [Drastically simplify, lower the cognitive load and put Ember among the top framework choices again](https://gist.github.com/frank06/eda33de8858e02ea1bfa4ed8e49766af)
+1. [Ember Testing in 2019](https://medium.com/@gauravmunjal_86037/ember-testing-in-2019-e5f5fac0c023)
+1. [From two directions: 2019 Ember.js Roadmap](https://www.jrjohnson.dev/posts/2019-05-26-ember-2019)
 
 ## Forum Threads
 1.
