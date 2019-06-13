@@ -33,6 +33,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Ember Testing in 2019](https://medium.com/@gauravmunjal_86037/ember-testing-in-2019-e5f5fac0c023)
 1. [From two directions: 2019 Ember.js Roadmap](https://www.jrjohnson.dev/posts/2019-05-26-ember-2019)
 1. [#EmberJS2019: My wish list](https://medium.com/@abhilashlr/emberjs2019-my-wish-list-c64a99547bff)
+1. [Emberjs2019](https://gist.github.com/rajasegar/b958fef06d67e20fe92e621c3f958be3)
 1. [Ember roadmap 2019](https://gist.github.com/michaelrkn/249666be12de3374d1f8e49af1ddfdc5)
 1. [Ember 2019 - Sell What We Have and Fix Papercuts](https://chris.manson.ie/ember-2019-sell-what-we-have-and-fix-papercuts/)
 
