@@ -33,7 +33,8 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Ember Testing in 2019](https://medium.com/@gauravmunjal_86037/ember-testing-in-2019-e5f5fac0c023)
 1. [From two directions: 2019 Ember.js Roadmap](https://www.jrjohnson.dev/posts/2019-05-26-ember-2019)
 1. [#EmberJS2019: My wish list](https://medium.com/@abhilashlr/emberjs2019-my-wish-list-c64a99547bff)
-1. [Emberjs2019](https://gist.github.com/rajasegar/b958fef06d67e20fe92e621c3f958be3)
+1. [Ember roadmap 2019](https://gist.github.com/michaelrkn/249666be12de3374d1f8e49af1ddfdc5)
+1. [Ember 2019 - Sell What We Have and Fix Papercuts](https://chris.manson.ie/ember-2019-sell-what-we-have-and-fix-papercuts/)
 
 
 ## Forum Threads
@@ -46,3 +47,4 @@ These don't have blog posts but it felt like they should be tracked somehow.
 1. "since I won't have time for a full blown blog post in the next few weeks here are some of my #Emberjs2019 thoughts as a Twitter thread:" - [Tobias Bieniek](https://twitter.com/TobiasBieniek/status/1135790015177469952)
 1. "My wish for #EmberJS2019 is basically to slim the feature set down -
 'There should be one– and preferably only one –obvious way to do it.'" - [Ondrej Sevcik](https://twitter.com/ondrejsevcik/status/1138778957178974209)
+1. "a few more thoughts on the #emberjs2019 topic: before thinking about what comes after Octane, let's finish and officially release Ember Octane first! (link: https://twitter.com/real_ate/status/1139092835154706432) twitter.com/real_ate/statu… has similar thoughts" - [Tobias Bieniek](https://twitter.com/TobiasBieniek/status/1139100524014395394)
