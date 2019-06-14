@@ -36,6 +36,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Emberjs2019](https://gist.github.com/rajasegar/b958fef06d67e20fe92e621c3f958be3)
 1. [Ember roadmap 2019](https://gist.github.com/michaelrkn/249666be12de3374d1f8e49af1ddfdc5)
 1. [Ember 2019 - Sell What We Have and Fix Papercuts](https://chris.manson.ie/ember-2019-sell-what-we-have-and-fix-papercuts/)
+1. [#EmberJS2019 Wishlist!](https://medium.com/@sarbbottam/emberjs2019-wishlist-ba11a6a3e012)
 
 
 ## Forum Threads
@@ -49,3 +50,4 @@ These don't have blog posts but it felt like they should be tracked somehow.
 1. "My wish for #EmberJS2019 is basically to slim the feature set down -
 'There should be one– and preferably only one –obvious way to do it.'" - [Ondrej Sevcik](https://twitter.com/ondrejsevcik/status/1138778957178974209)
 1. "a few more thoughts on the #emberjs2019 topic: before thinking about what comes after Octane, let's finish and officially release Ember Octane first! (link: https://twitter.com/real_ate/status/1139092835154706432) twitter.com/real_ate/statu… has similar thoughts" - [Tobias Bieniek](https://twitter.com/TobiasBieniek/status/1139100524014395394)
+1. "Keep Routes as a concept but make it easier to experiment with alternative navigation schemes wherein there might not be such a thing as route (or whatever it is is unrecognizable from the classic Ember desktop navigation route)" - [Alex Matchneer](https://twitter.com/amatchneer/status/1139242398134018048)
