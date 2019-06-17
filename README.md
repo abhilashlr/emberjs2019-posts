@@ -37,6 +37,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Ember roadmap 2019](https://gist.github.com/michaelrkn/249666be12de3374d1f8e49af1ddfdc5)
 1. [Ember 2019 - Sell What We Have and Fix Papercuts](https://chris.manson.ie/ember-2019-sell-what-we-have-and-fix-papercuts/)
 1. [#EmberJS2019 Wishlist!](https://medium.com/@sarbbottam/emberjs2019-wishlist-ba11a6a3e012)
+1. [Ember.js 2020: improving the DX](https://dcyriller.github.io/ember-call-for-blog-posts/)
 
 
 ## Forum Threads
