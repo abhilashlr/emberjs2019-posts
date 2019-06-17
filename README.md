@@ -39,8 +39,13 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [#EmberJS2019 Wishlist!](https://medium.com/@sarbbottam/emberjs2019-wishlist-ba11a6a3e012)
 1. [Ember.js 2020: improving the DX](https://dcyriller.github.io/ember-call-for-blog-posts/)
 1. [Send Ember on a diet and thrive innovation](https://dev.to/tschoartschi/send-ember-on-a-diet-and-thrive-innovation-2aef)
+1. [Ember into Futurity](http://hangaroundtheweb.com/2019/06/ember-into-futurity/)
 1. [Ember 2019 - More Tooling 🔧 🔨](https://alonbukaiblog.netlify.com/ember-2019-more-tooling/)
 1. [EmberJS 2019 Roadmap](https://josemarluedke.com/blog/emberjs-2019-roadmap/)
+1. [EmberJS2019 - We need to preach ember more](https://gist.github.com/kenigbolo/3503d158858660e2d90fbb6726db2caf)
+1. [Ember 2019](https://shipshape.io/blog/ember-2019/)
+1. [#EMBERJS2019](http://presentationtier.com/emberjs2019/)
+1. [Managing Migrations in Ember](https://www.linkedin.com/pulse/managing-migrations-ember-steve-calvert)
 
 
 ## Forum Threads
