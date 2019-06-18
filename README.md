@@ -46,6 +46,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Ember 2019](https://shipshape.io/blog/ember-2019/)
 1. [#EMBERJS2019](http://presentationtier.com/emberjs2019/)
 1. [Managing Migrations in Ember](https://www.linkedin.com/pulse/managing-migrations-ember-steve-calvert)
+1. [Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019 ](https://0xadada.pub/2019/06/17/essential-ember-addons/)
 1. [The case for Embeddable Ember](https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120)
 1. [Fragmentation Over Obsolescence](https://ilyaradchenko.com/fragmentation-over-obsalecence/)
 1. [EmberData2019](https://runspired.com/2019/06/17/emberdata2019/)
