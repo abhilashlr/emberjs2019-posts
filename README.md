@@ -46,7 +46,12 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [Ember 2019](https://shipshape.io/blog/ember-2019/)
 1. [#EMBERJS2019](http://presentationtier.com/emberjs2019/)
 1. [Managing Migrations in Ember](https://www.linkedin.com/pulse/managing-migrations-ember-steve-calvert)
-
+1. [The case for Embeddable Ember](https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120)
+1. [Fragmentation Over Obsolescence](https://ilyaradchenko.com/fragmentation-over-obsalecence/)
+1. [EmberData2019](https://runspired.com/2019/06/17/emberdata2019/)
+1. [#EmberJS2019, Part 1](https://www.chriskrycho.com/2019/emberjs2019-part-1.html)
+1. [#EmberJS2019, Part 2](https://www.chriskrycho.com/2019/emberjs2019-part-2.html)
+1. [My thoughts on the Ember.js roadmap for 2019 #EmberJS2019](https://gist.github.com/neojp/d7b2cdc38a04776cf3e41a6e698fb07e)
 
 ## Forum Threads
 1.
